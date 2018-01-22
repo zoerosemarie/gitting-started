@@ -3,28 +3,28 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
+> Shuyi Qi
 
 What do you prefer to be called?
-> ...
+> Shuyi
 
 What are your GitHub usernames?
-> ...
+> qishuyi
 
 Why are you taking this course?
-> ...
+> Because I want to know more about Computer Science besides programming.
 
 Do you have any concerns about this course?
-> ...
+> I am generally quieter and slower than other people and I don't know if this will be a problem in this course.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
+> System Design
 
 Do you have any questions about the course?
-> ...
+> Not yet
 
 Do you have any other questions for me?
-> ...
+> Do you welcome drop-ins when your door is open?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
